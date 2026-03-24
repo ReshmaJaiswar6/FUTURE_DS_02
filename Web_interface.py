@@ -120,7 +120,7 @@ fig = px.bar(
     x='mrr_amount',
     y='plan_tier_x',
     orientation='h',
-    text='mrr_amount'
+    text='mrr_amount',
     color = ' plan_tier_x'
 )
 
