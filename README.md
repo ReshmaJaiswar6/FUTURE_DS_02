@@ -12,7 +12,7 @@ Analyze behavioral patterns driving churn
 Assess financial impact of customer loss
 Recommend targeted retention strategies
 
-📁 Data Overview
+ Data Overview
 The final dataset is constructed by integrating multiple sources:
 
 Customer accounts
@@ -24,12 +24,12 @@ Churn event records
 Processed dataset:
 Merged_SaaS_Subs_cleaned_data.csv
 
-⚙️ Technology Stack
+ Technology Stack
 Python (Pandas) – Data processing & analysis
 Streamlit – Interactive dashboard deployment
 Plotly – Dynamic, user-driven visualizations
 
-📊 Dashboard Highlights
+Dashboard Highlights
 • Business Performance Overview
 
 Tracks key metrics including churn rate, customer base, tenure, and revenue loss.
@@ -62,7 +62,7 @@ Low engagement is the primary driver of churn
 Early lifecycle customers show the highest vulnerability
 High support usage correlates with increased churn risk
 Revenue loss is concentrated within specific plan tiers
-🚀 Strategic Recommendations
+ Strategic Recommendations
 Strengthen onboarding to improve early-stage engagement
 Implement proactive support for high-risk customers
 Prioritize retention efforts for high-value segments
