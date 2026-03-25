@@ -5,6 +5,11 @@
 This project delivers an end-to-end analysis of SaaS customer behavior to identify churn drivers, high-risk segments, and revenue impact.
 An interactive dashboard is developed to translate data into clear, decision-ready insights for business stakeholders.
 
+## Live Application :
+
+https://saas-churn-dashboard.streamlit.app/
+
+
 ## Business Objectives
 Quantify overall customer churn and retention performance
 Identify segments with elevated churn risk
@@ -64,11 +69,6 @@ Implement proactive support for high-risk customers
 Prioritize retention efforts for high-value segments
 Monitor behavioral signals for early churn intervention
 
-
-## Live Application : https://saas-churn-dashboard.streamlit.app/
-
-![Screen Recording 2026-03-25 103603](https://github.com/user-attachments/assets/d9e5e982-10c0-44b4-9706-37f7de739cf0)
-
 ## Deployment
 This project is deployed using Streamlit Community Cloud, enabling easy access and sharing.
 
@@ -100,3 +100,5 @@ LinkedIn: www.linkedin.com/in/reshma-jaiswar-171995262
 
 ## ⭐ Support
 If you found this project useful, consider giving it a ⭐ on GitHub!
+
+![Screen Recording 2026-03-25 103603](https://github.com/user-attachments/assets/d9e5e982-10c0-44b4-9706-37f7de739cf0)
